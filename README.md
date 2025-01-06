@@ -1,5 +1,9 @@
 # Gananoque Choral Society website
 
+Website: ganchoralsociety.com
+
+Github repository: https://github.com/ganchoral/ganchoral.github.io
+
 ## Cheatsheet
 
 ### Cloning the repository from github
@@ -9,7 +13,7 @@ Open a terminal in the parent directory that you would like to clone the resposi
 Run:
 
 ```
-git clone https://github.com/ganchoral/ganchoral.github.io.git
+git clone git@github.com:ganchoral/ganchoral.github.io.git
 ```
 
 Then use cd to change to the new directory you just created:
