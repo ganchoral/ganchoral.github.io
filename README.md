@@ -40,7 +40,7 @@ more detailed line-by-line description of the changes by running `git diff`.
 When you're happy with your changes, stage them for commit:
 
 ```
-git commit --all
+git add --all
 ```
 
 Commit them:
